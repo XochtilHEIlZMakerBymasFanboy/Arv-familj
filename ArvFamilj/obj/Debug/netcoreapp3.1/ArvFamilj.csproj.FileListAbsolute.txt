@@ -1,0 +1,13 @@
+C:\Users\Alexander\Documents\Development\C#\Arv-familj\ArvFamilj\obj\Debug\netcoreapp3.1\ArvFamilj.csproj.AssemblyReference.cache
+C:\Users\Alexander\Documents\Development\C#\Arv-familj\ArvFamilj\obj\Debug\netcoreapp3.1\ArvFamilj.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\Development\C#\Arv-familj\ArvFamilj\obj\Debug\netcoreapp3.1\ArvFamilj.AssemblyInfo.cs
+C:\Users\Alexander\Documents\Development\C#\Arv-familj\ArvFamilj\obj\Debug\netcoreapp3.1\ArvFamilj.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\Development\C#\Arv-familj\ArvFamilj\bin\Debug\netcoreapp3.1\ArvFamilj.exe
+C:\Users\Alexander\Documents\Development\C#\Arv-familj\ArvFamilj\bin\Debug\netcoreapp3.1\ArvFamilj.deps.json
+C:\Users\Alexander\Documents\Development\C#\Arv-familj\ArvFamilj\bin\Debug\netcoreapp3.1\ArvFamilj.runtimeconfig.json
+C:\Users\Alexander\Documents\Development\C#\Arv-familj\ArvFamilj\bin\Debug\netcoreapp3.1\ArvFamilj.runtimeconfig.dev.json
+C:\Users\Alexander\Documents\Development\C#\Arv-familj\ArvFamilj\bin\Debug\netcoreapp3.1\ArvFamilj.dll
+C:\Users\Alexander\Documents\Development\C#\Arv-familj\ArvFamilj\bin\Debug\netcoreapp3.1\ArvFamilj.pdb
+C:\Users\Alexander\Documents\Development\C#\Arv-familj\ArvFamilj\obj\Debug\netcoreapp3.1\ArvFamilj.dll
+C:\Users\Alexander\Documents\Development\C#\Arv-familj\ArvFamilj\obj\Debug\netcoreapp3.1\ArvFamilj.pdb
+C:\Users\Alexander\Documents\Development\C#\Arv-familj\ArvFamilj\obj\Debug\netcoreapp3.1\ArvFamilj.genruntimeconfig.cache
